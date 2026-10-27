@@ -1,0 +1,1 @@
+No epidemiological sample dataset is included because the OWID source was not reachable while packaging. The app loads it at runtime or accepts a compatible uploaded CSV. covid_executive_summary.pdf is an honest one-page template with no fabricated KPIs or findings; generate a populated report from the dashboard after loading actual data.
